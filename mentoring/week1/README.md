@@ -3,7 +3,7 @@
 ## 실습
 | 순서 | 프로젝트명 | 작성 기간  | 사용 기술 |
 | --- | --- | --- |  --- |
-| 1 | [**Spirng Application With Docekr**]() | '24.04.24. | ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>![Spring](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)<br>![Spring](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)|
+| 1 | [**Spirng Application With Docekr**](https://github.com/JoonHoSeong/Spring_Study/tree/main/mentoring/week1/deploy-sample) | '24.04.24. | ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>![Spring](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)<br>![Spring](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)|
 
 ## 블로그 게시물
 | 순서 | 게시물 명 |
