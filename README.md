@@ -2,18 +2,20 @@
 
 ## 사용한 기술 스택
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SprSpringBooting](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 실습
+## Mentoring
+
+### 실습
 | 순서 | 프로젝트명 | 작성 기간  | 사용 기술 |
 | --- | --- | --- |  --- |
-| 1 | [**Spirng Application With Docekr**](https://github.com/JoonHoSeong/Spring_Study/tree/main/mentoring/week1/deploy-sample) | '24.04.24. | ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>![Spring](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)<br>![Spring](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)|
+| 1 | [**Spirng Application With Docekr**](https://github.com/JoonHoSeong/Spring_Study/tree/main/mentoring/week1/deploy-sample) | '24.04.24. | ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)<br>![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)|
 
-## 블로그 게시물
+### 블로그 게시물
 | 순서 | 게시물 명 |
 | --- | --- |
 | 1 |[**[Spring] Java Application 구성 With Docker**](https://slowprogramer.tistory.com/entry/Spring-Java-Application-%EA%B5%AC%EC%84%B1-With-Docker) | 
@@ -23,5 +25,12 @@
 | 5 |[**[CS] systemd, systemctl 그리고 chmod, chown**](https://slowprogramer.tistory.com/entry/CS-systemd-systemctl-%EA%B7%B8%EB%A6%AC%EA%B3%A0-chmod-chown) | 
 | 6 |[**[CS] 리눅스 시스템 모니터링 명령어**](https://slowprogramer.tistory.com/entry/CS-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%AA%85%EB%A0%B9%EC%96%B4#ifconfig-1) | 
 
+## Lecture
+| 순서 | 강의명 | Section  | 사용 기술 |
+| --- | --- | --- |  --- |
+| 1 | 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard) | 1,2 | ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>![Spring](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)|
 
-
+## Trouble Shooting
+| 순서 | 게시물 명 |
+| --- | --- |
+| 1 |[**[Spring Trouble Shooting] ./gradlew build Task : test FAILED**](https://slowprogramer.tistory.com/entry/Spring-gradlew-build-Task-test-FAILED) | 
